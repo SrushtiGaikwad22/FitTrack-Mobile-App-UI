@@ -23,8 +23,10 @@ https://www.figma.com/design/BMBGWsir7NGMKfNtVe4pVK/CODSOFT_Task1_Mobile_Signup_
 
 ### Welcome Screen
 
-![Welcome Screen](Welcome-Screen.png)
+![Welcome Screen]
+(Welcome%20Screen.png)
 
 ### Create Account Screen
 
-![Create Account Screen](Create-Account-Screen.png)
+![Create Account Screen]
+(Create%20Account.png)
